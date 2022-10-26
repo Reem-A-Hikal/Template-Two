@@ -675,7 +675,7 @@ header .container nav .form i {
   position: absolute;
   background-color: black;
   color: white;
-  right: -20px;
+  right: -21px;
   top: -40px;
   padding: 5px;
   border-radius: 5px;
@@ -685,8 +685,8 @@ header .container nav .form i {
   position: absolute;
   border: 8px solid;
   border-color: black transparent transparent;
-  right: -7px;
-  top: -13px;
+  right: -8px;
+  top: -15px;
 }
 /* End Skills */
 /* Start Quote */
